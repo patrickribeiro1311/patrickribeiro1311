@@ -23,4 +23,13 @@ Atuei em design, layout, implementação, conteúdo e manutenção desses sites.
 - Criação de automações com IA para processos reais.
 - Aprofundamento de lógica de programação e fundamentos de desenvolvimento.
 
+## Competências que trago do design
+
+- UX/UI, design de interfaces, landing pages e experiência de uso.
+- Direção de arte, identidade visual, design gráfico e tipografia.
+- Adobe Photoshop, Illustrator, After Effects e Creative Cloud.
+- Conteúdo, apresentações, edição de vídeo e gestão de projetos.
+
+Essa bagagem me ajuda a criar interfaces claras e a conectar implementação, produto e necessidades de quem usa o sistema.
+
 **Vamos conversar:** [LinkedIn](https://www.linkedin.com/in/patrick-oliveira-53a9111b7/)
